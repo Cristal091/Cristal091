@@ -1,11 +1,12 @@
+
 ### Boas vindas ao meu perfil :blue_heart
 
-<!--meu nome é maria Elena 
+Meu nome é Maria Elena 
 
--Estou estudando na Alura
-H- Estou me desenvolvendo na linguagem JavaScript,
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido.
--->
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
 ### Você pode entrar em contato comigo :mailbox
 
 mariaelew91@gmail.com
